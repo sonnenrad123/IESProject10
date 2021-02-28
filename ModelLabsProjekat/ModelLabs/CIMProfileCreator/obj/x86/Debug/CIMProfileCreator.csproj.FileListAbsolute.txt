@@ -22,3 +22,15 @@ D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\
 D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\GenerateResource.write.1.tlog
 D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.exe
 D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.pdb
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\bin\Predefined\PredefinedClasses.xml
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\bin\Predefined\PredefinedEnumerations.xml
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\bin\Predefined\PredefinedPackages.xml
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\bin\FTN.ESI.SIMES.CIM.CIMProfileCreator.exe
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\bin\FTN.ESI.SIMES.CIM.CIMProfileCreator.pdb
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\CIMProfileCreator.csprojAssemblyReference.cache
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.CIMProfileCreatorForm.resources
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.Properties.Resources.resources
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\CIMProfileCreator.csproj.GenerateResource.cache
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\CIMProfileCreator.csproj.CoreCompileInputs.cache
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.exe
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.pdb
