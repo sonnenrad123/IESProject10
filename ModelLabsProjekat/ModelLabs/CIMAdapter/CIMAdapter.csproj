@@ -70,10 +70,6 @@
     <Reference Include="BreakerCIMProfile_Labs">
       <HintPath>Lib\BreakerCIMProfile_Labs.dll</HintPath>
     </Reference>
-    <Reference Include="PowerTransformerCIMProfile_Labs, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>Lib\PowerTransformerCIMProfile_Labs.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.ServiceModel" />
@@ -111,7 +107,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Lib\BreakerCIMProfile_Labs.dll" />
-    <Content Include="Lib\PowerTransformerCIMProfile_Labs.dll" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
