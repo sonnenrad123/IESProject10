@@ -865,21 +865,34 @@ namespace FTN.Common
 		# region Initialization of metadata
 
 		private void InitializeTypeIdsInInsertOrder()
-		{			
-			typeIdsInInsertOrder.Add(ModelCode.BASEVOLTAGE);
+		{
+			typeIdsInInsertOrder.Add(ModelCode.BRKR);
+			typeIdsInInsertOrder.Add(ModelCode.DAYTYPE);
+			typeIdsInInsertOrder.Add(ModelCode.SEASON);
+			typeIdsInInsertOrder.Add(ModelCode.REGCONTROL);
+			typeIdsInInsertOrder.Add(ModelCode.SWSCH);
+			typeIdsInInsertOrder.Add(ModelCode.REGSCH);
+			typeIdsInInsertOrder.Add(ModelCode.RTP);
+			/*typeIdsInInsertOrder.Add(ModelCode.BASEVOLTAGE);
 			typeIdsInInsertOrder.Add(ModelCode.LOCATION);
 			typeIdsInInsertOrder.Add(ModelCode.POWERTR);
 			typeIdsInInsertOrder.Add(ModelCode.POWERTRWINDING);
-			typeIdsInInsertOrder.Add(ModelCode.WINDINGTEST);			
+			typeIdsInInsertOrder.Add(ModelCode.WINDINGTEST);*/
 		}
 
 		private void InitializeNotSettablePropertyIds()
-		{			
-			notSettablePropertyIds.Add(ModelCode.IDOBJ_GID);
+		{
+			/*notSettablePropertyIds.Add(ModelCode.IDOBJ_GID);
 			notSettablePropertyIds.Add(ModelCode.BASEVOLTAGE_CONDEQS);
 			notSettablePropertyIds.Add(ModelCode.LOCATION_PSRS);
 			notSettablePropertyIds.Add(ModelCode.POWERTRWINDING_TESTS);
-            notSettablePropertyIds.Add(ModelCode.POWERTR_WINDINGS);	
+            notSettablePropertyIds.Add(ModelCode.POWERTR_WINDINGS);	*/
+			notSettablePropertyIds.Add(ModelCode.IDOBJ_GID);
+			notSettablePropertyIds.Add(ModelCode.RIS_TIMEPOINTS);
+			notSettablePropertyIds.Add(ModelCode.DAYTYPE_SDTSCHS);
+			notSettablePropertyIds.Add(ModelCode.SEASON_SDTSCHS);
+			notSettablePropertyIds.Add(ModelCode.REGCONTROL_REGSCHS);
+			notSettablePropertyIds.Add(ModelCode.SW_SWSCHS);
 		}
 	
 		# endregion Initialization of metadata

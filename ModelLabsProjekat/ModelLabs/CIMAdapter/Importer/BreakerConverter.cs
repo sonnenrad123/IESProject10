@@ -282,6 +282,8 @@ namespace FTN.ESI.SIMES.CIM.CIMAdapter.Importer
                 }
             }
         }
+
+
         #endregion Populate ResourceDescription
 
 

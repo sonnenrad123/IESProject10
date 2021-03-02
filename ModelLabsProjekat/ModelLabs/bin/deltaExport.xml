@@ -1,0 +1,204 @@
+﻿<delta id="0">
+  <operations>
+    <operation type="insert">
+      <ResourceDescriptions count="16">
+        <ResourceDescription>
+          <id gid="0x00000007ffffffff" type="BRKR" />
+          <Properties>
+            <Property id="IDOBJ_ALIAS" value="BRK1" />
+            <Property id="IDOBJ_NAME" value="Breaker1" />
+            <Property id="IDOBJ_MRID" value="200200_BRK" />
+            <Property id="EQUIP_AGGREGATE" value="1" />
+            <Property id="EQUIP_NORMINSERVICE" value="1" />
+            <Property id="SW_NORMOPEN" value="1" />
+            <Property id="SW_RATEDCURR" value="300" />
+            <Property id="SW_RETAINED" value="0" />
+            <Property id="SW_SWONCOUNT" value="20" />
+            <Property id="SW_SWONDATE" value="638029440000000000" />
+            <Property id="PROTSW_BRKCAP" value="500" />
+            <Property id="BRKR_TRANSTIME" value="200" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000007fffffffe" type="BRKR" />
+          <Properties>
+            <Property id="IDOBJ_ALIAS" value="BRK2" />
+            <Property id="IDOBJ_NAME" value="Breaker2" />
+            <Property id="IDOBJ_MRID" value="200300_BRK" />
+            <Property id="EQUIP_AGGREGATE" value="1" />
+            <Property id="EQUIP_NORMINSERVICE" value="1" />
+            <Property id="SW_NORMOPEN" value="1" />
+            <Property id="SW_RATEDCURR" value="310" />
+            <Property id="SW_RETAINED" value="0" />
+            <Property id="SW_SWONCOUNT" value="20" />
+            <Property id="SW_SWONDATE" value="638002656000000000" />
+            <Property id="PROTSW_BRKCAP" value="510" />
+            <Property id="BRKR_TRANSTIME" value="210" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004ffffffff" type="DAYTYPE" />
+          <Properties>
+            <Property id="IDOBJ_ALIAS" value="DT1" />
+            <Property id="IDOBJ_NAME" value="DayType1" />
+            <Property id="IDOBJ_MRID" value="2000_DT" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffffe" type="DAYTYPE" />
+          <Properties>
+            <Property id="IDOBJ_ALIAS" value="DT2" />
+            <Property id="IDOBJ_NAME" value="DayType2" />
+            <Property id="IDOBJ_MRID" value="2001_DT" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005ffffffff" type="SEASON" />
+          <Properties>
+            <Property id="IDOBJ_ALIAS" value="SS1" />
+            <Property id="IDOBJ_NAME" value="Season1" />
+            <Property id="IDOBJ_MRID" value="100_SS" />
+            <Property id="SEASON_SDATE" value="637687296000000000" />
+            <Property id="SEASON_EDATE" value="638002656000000000" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005fffffffe" type="SEASON" />
+          <Properties>
+            <Property id="IDOBJ_ALIAS" value="SS2" />
+            <Property id="IDOBJ_NAME" value="Season2" />
+            <Property id="IDOBJ_MRID" value="200_SS" />
+            <Property id="SEASON_SDATE" value="638029440000000000" />
+            <Property id="SEASON_EDATE" value="638318016000000000" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006ffffffff" type="REGCONTROL" />
+          <Properties>
+            <Property id="IDOBJ_ALIAS" value="RegCont1" />
+            <Property id="IDOBJ_NAME" value="RegulatingControl1" />
+            <Property id="IDOBJ_MRID" value="101010_RC" />
+            <Property id="REGCONTROL_DISCRETE" value="1" />
+            <Property id="REGCONTROL_MODE" value="activePower" />
+            <Property id="REGCONTROL_MONITORPHASE" value="AB" />
+            <Property id="REGCONTROL_TARGETR" value="100.2" />
+            <Property id="REGCONTROL_TARGETV" value="10.2" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006fffffffe" type="REGCONTROL" />
+          <Properties>
+            <Property id="IDOBJ_ALIAS" value="RegCont2" />
+            <Property id="IDOBJ_NAME" value="RegulatingControl2" />
+            <Property id="IDOBJ_MRID" value="202020_RC" />
+            <Property id="REGCONTROL_DISCRETE" value="1" />
+            <Property id="REGCONTROL_MODE" value="activePower" />
+            <Property id="REGCONTROL_MONITORPHASE" value="ABC" />
+            <Property id="REGCONTROL_TARGETR" value="200.2" />
+            <Property id="REGCONTROL_TARGETV" value="11.2" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002ffffffff" type="SWSCH" />
+          <Properties>
+            <Property id="IDOBJ_ALIAS" value="SWS1" />
+            <Property id="IDOBJ_NAME" value="SwitchSchedule1" />
+            <Property id="IDOBJ_MRID" value="SWS_1213" />
+            <Property id="BIS_STIME" value="637502400000000000" />
+            <Property id="BIS_VALUNIT" value="degC" />
+            <Property id="SDTS_DAYTYPE" value="0x00000004ffffffff" />
+            <Property id="SDTS_SEASON" value="0x00000005ffffffff" />
+            <Property id="SWSCH_SWITCH" value="0x00000007ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffe" type="SWSCH" />
+          <Properties>
+            <Property id="IDOBJ_ALIAS" value="SWS2" />
+            <Property id="IDOBJ_NAME" value="SwitchSchedule2" />
+            <Property id="IDOBJ_MRID" value="SWS_1314" />
+            <Property id="BIS_STIME" value="637502400000000000" />
+            <Property id="BIS_VALUNIT" value="degC" />
+            <Property id="SDTS_DAYTYPE" value="0x00000004fffffffe" />
+            <Property id="SDTS_SEASON" value="0x00000005fffffffe" />
+            <Property id="SWSCH_SWITCH" value="0x00000007fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001ffffffff" type="REGSCH" />
+          <Properties>
+            <Property id="IDOBJ_ALIAS" value="RS1" />
+            <Property id="IDOBJ_NAME" value="RegulationSchedule1" />
+            <Property id="IDOBJ_MRID" value="101_RS" />
+            <Property id="BIS_STIME" value="637502400000000000" />
+            <Property id="BIS_VALUNIT" value="degC" />
+            <Property id="SDTS_DAYTYPE" value="0x00000004ffffffff" />
+            <Property id="SDTS_SEASON" value="0x00000005ffffffff" />
+            <Property id="REGSCH_REGCONTROL" value="0x00000006ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001fffffffe" type="REGSCH" />
+          <Properties>
+            <Property id="IDOBJ_ALIAS" value="RS2" />
+            <Property id="IDOBJ_NAME" value="RegulationSchedule2" />
+            <Property id="IDOBJ_MRID" value="102_RS" />
+            <Property id="BIS_STIME" value="637502400000000000" />
+            <Property id="BIS_VALUNIT" value="degC" />
+            <Property id="SDTS_DAYTYPE" value="0x00000004fffffffe" />
+            <Property id="SDTS_SEASON" value="0x00000005fffffffe" />
+            <Property id="REGSCH_REGCONTROL" value="0x00000006fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003ffffffff" type="RTP" />
+          <Properties>
+            <Property id="IDOBJ_ALIAS" value="RegTimePoint1" />
+            <Property id="IDOBJ_NAME" value="RegularTimePoint1" />
+            <Property id="IDOBJ_MRID" value="RTP_1004" />
+            <Property id="RTP_SEQNUM" value="10" />
+            <Property id="RTP_VAL1" value="10.4" />
+            <Property id="RTP_VAL2" value="11.4" />
+            <Property id="RTP_INTERVALSCH" value="0x00000001ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffe" type="RTP" />
+          <Properties>
+            <Property id="IDOBJ_ALIAS" value="RegTimePoint2" />
+            <Property id="IDOBJ_NAME" value="RegularTimePoint2" />
+            <Property id="IDOBJ_MRID" value="RTP_1005" />
+            <Property id="RTP_SEQNUM" value="11" />
+            <Property id="RTP_VAL1" value="11.4" />
+            <Property id="RTP_VAL2" value="101.4" />
+            <Property id="RTP_INTERVALSCH" value="0x00000001ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffd" type="RTP" />
+          <Properties>
+            <Property id="IDOBJ_ALIAS" value="RegTimePoint3" />
+            <Property id="IDOBJ_NAME" value="RegularTimePoint3" />
+            <Property id="IDOBJ_MRID" value="RTP_1006" />
+            <Property id="RTP_SEQNUM" value="12" />
+            <Property id="RTP_VAL1" value="102.4" />
+            <Property id="RTP_VAL2" value="112.4" />
+            <Property id="RTP_INTERVALSCH" value="0x00000001fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffc" type="RTP" />
+          <Properties>
+            <Property id="IDOBJ_ALIAS" value="RegTimePoint4" />
+            <Property id="IDOBJ_NAME" value="RegularTimePoint4" />
+            <Property id="IDOBJ_MRID" value="RTP_1007" />
+            <Property id="RTP_SEQNUM" value="13" />
+            <Property id="RTP_VAL1" value="132.4" />
+            <Property id="RTP_VAL2" value="122.4" />
+            <Property id="RTP_INTERVALSCH" value="0x00000001fffffffe" />
+          </Properties>
+        </ResourceDescription>
+      </ResourceDescriptions>
+    </operation>
+  </operations>
+</delta>
