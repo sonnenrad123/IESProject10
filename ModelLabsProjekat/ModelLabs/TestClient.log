@@ -1,0 +1,80 @@
+4.3.2021. 16:32:34 : Network Model Service Test Client is up and running...
+4.3.2021. 16:32:34 : Result directory: ../Results
+4.3.2021. 16:33:29 : Entering entity id failed. Please use hex (0x) or decimal format.
+4.3.2021. 16:33:29 : GetValues failed. Input string was not in a correct format.
+4.3.2021. 16:35:50 : Getting extent values method started.
+4.3.2021. 16:35:50 : Getting extent values method successfully finished.
+4.3.2021. 16:37:23 : Getting values method started.
+4.3.2021. 16:37:23 : Getting values method successfully finished.
+4.3.2021. 16:40:44 : Getting values method started.
+4.3.2021. 16:40:44 : Failed to get model type code for DMS type: 0. Invalid DMS type
+4.3.2021. 16:40:44 : Getting values method for entered id = 1229764173248856064 failed.
+	Failed to get model type code for DMS type: 0. Invalid DMS type
+4.3.2021. 16:43:26 : Getting values method started.
+4.3.2021. 16:43:26 : Failed to get model type code for DMS type: 0. Invalid DMS type
+4.3.2021. 16:43:26 : Getting values method for entered id = 1517713074424250368 failed.
+	Failed to get model type code for DMS type: 0. Invalid DMS type
+4.3.2021. 16:45:26 : Getting values method started.
+4.3.2021. 16:45:26 : Getting values method successfully finished.
+4.3.2021. 16:45:58 : Getting values method started.
+4.3.2021. 16:45:58 : Getting values method successfully finished.
+4.3.2021. 16:46:10 : Getting values method started.
+4.3.2021. 16:46:10 : Getting values method successfully finished.
+4.3.2021. 16:48:19 : Getting values method started.
+4.3.2021. 16:48:19 : Getting values method successfully finished.
+4.3.2021. 16:49:12 : Getting values method started.
+4.3.2021. 16:49:12 : Getting values method successfully finished.
+4.3.2021. 16:52:27 : Entering association failed. System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Int64.Parse(String s)
+   at FTN.Services.NetworkModelService.TestClient.Program.InputAssociation() in D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\Program.cs:line 235
+4.3.2021. 16:52:27 : GetRelatedValues failed. Input string was not in a correct format.
+4.3.2021. 16:53:14 : Getting extent values method started.
+4.3.2021. 16:53:14 : Getting extent values method successfully finished.
+4.3.2021. 16:53:50 : Getting extent values method started.
+4.3.2021. 16:53:50 : Getting extent values method successfully finished.
+4.3.2021. 16:57:46 : Getting extent values method started.
+4.3.2021. 16:57:46 : Getting extent values method successfully finished.
+4.3.2021. 17:01:15 : Getting extent values method started.
+4.3.2021. 17:01:15 : Getting extent values method successfully finished.
+4.3.2021. 17:01:38 : Getting extent values method started.
+4.3.2021. 17:01:39 : Getting extent values method successfully finished.
+4.3.2021. 17:02:43 : Getting extent values method started.
+4.3.2021. 17:02:43 : Getting extent values method successfully finished.
+4.3.2021. 17:03:19 : Getting extent values method started.
+4.3.2021. 17:03:19 : Getting extent values method successfully finished.
+4.3.2021. 17:03:41 : Getting values method started.
+4.3.2021. 17:03:41 : Failed to get model type code for DMS type: 0. Invalid DMS type
+4.3.2021. 17:03:41 : Getting values method for entered id = 1229482698272145408 failed.
+	Failed to get model type code for DMS type: 0. Invalid DMS type
+4.3.2021. 17:03:49 : Getting extent values method started.
+4.3.2021. 17:03:49 : Getting extent values method successfully finished.
+4.3.2021. 17:07:16 : Network Model Service Test Client is up and running...
+4.3.2021. 17:07:16 : Result directory: ../Results
+4.3.2021. 17:07:36 : Getting extent values method started.
+4.3.2021. 17:07:36 : Getting extent values method successfully finished.
+4.3.2021. 17:09:22 : Getting extent values method started.
+4.3.2021. 17:09:22 : Getting extent values method successfully finished.
+4.3.2021. 17:10:48 : Getting extent values method started.
+4.3.2021. 17:10:48 : Getting extent values method successfully finished.
+4.3.2021. 17:13:43 : Getting extent values method started.
+4.3.2021. 17:13:43 : Getting extent values method successfully finished.
+4.3.2021. 17:14:28 : Getting extent values method started.
+4.3.2021. 17:14:28 : Getting extent values method successfully finished.
+4.3.2021. 17:21:27 : Network Model Service Test Client is up and running...
+4.3.2021. 17:21:27 : Result directory: ../Results
+4.3.2021. 17:21:47 : Getting extent values method started.
+4.3.2021. 17:21:47 : Getting extent values method successfully finished.
+4.3.2021. 17:22:20 : Entering association failed. System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Int64.Parse(String s)
+   at FTN.Services.NetworkModelService.TestClient.Program.InputAssociation() in D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\Program.cs:line 235
+4.3.2021. 17:22:20 : GetRelatedValues failed. Input string was not in a correct format.
+4.3.2021. 17:22:23 : Getting extent values method started.
+4.3.2021. 17:22:23 : Getting extent values method successfully finished.
+4.3.2021. 17:22:53 : Getting extent values method started.
+4.3.2021. 17:22:53 : Getting extent values method successfully finished.
+4.3.2021. 21:31:37 : Network Model Service Test Client is up and running...
+4.3.2021. 21:31:37 : Result directory: ../Results

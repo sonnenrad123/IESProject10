@@ -40,6 +40,42 @@
 		<cim:IdentifiedObject.mRID>RTP_1007</cim:IdentifiedObject.mRID>
 		<cim:IdentifiedObject.name>RegularTimePoint4</cim:IdentifiedObject.name>
 	</cim:RegularTimePoint>
+	<cim:RegularTimePoint rdf:ID="RTP_1008">
+		<cim:RegularTimePoint.IntervalSchedule rdf:resource="#103_RS"/>
+		<cim:RegularTimePoint.sequenceNumber>13</cim:RegularTimePoint.sequenceNumber>
+		<cim:RegularTimePoint.value1>132.4</cim:RegularTimePoint.value1>
+		<cim:RegularTimePoint.value2>122.4</cim:RegularTimePoint.value2>
+		<cim:IdentifiedObject.aliasName>RegTimePoint5</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>RTP_1008</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>RegularTimePoint5</cim:IdentifiedObject.name>
+	</cim:RegularTimePoint>
+	<cim:RegularTimePoint rdf:ID="RTP_1009">
+		<cim:RegularTimePoint.IntervalSchedule rdf:resource="#104_RS"/>
+		<cim:RegularTimePoint.sequenceNumber>13</cim:RegularTimePoint.sequenceNumber>
+		<cim:RegularTimePoint.value1>132.4</cim:RegularTimePoint.value1>
+		<cim:RegularTimePoint.value2>122.4</cim:RegularTimePoint.value2>
+		<cim:IdentifiedObject.aliasName>RegTimePoint6</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>RTP_1009</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>RegularTimePoint6</cim:IdentifiedObject.name>
+	</cim:RegularTimePoint>
+	<cim:RegularTimePoint rdf:ID="RTP_1010">
+		<cim:RegularTimePoint.IntervalSchedule rdf:resource="#SWS_1213"/>
+		<cim:RegularTimePoint.sequenceNumber>13</cim:RegularTimePoint.sequenceNumber>
+		<cim:RegularTimePoint.value1>132.4</cim:RegularTimePoint.value1>
+		<cim:RegularTimePoint.value2>122.4</cim:RegularTimePoint.value2>
+		<cim:IdentifiedObject.aliasName>RegTimePoint7</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>RTP_1010</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>RegularTimePoint7</cim:IdentifiedObject.name>
+	</cim:RegularTimePoint>
+	<cim:RegularTimePoint rdf:ID="RTP_1011">
+		<cim:RegularTimePoint.IntervalSchedule rdf:resource="#SWS_1314"/>
+		<cim:RegularTimePoint.sequenceNumber>13</cim:RegularTimePoint.sequenceNumber>
+		<cim:RegularTimePoint.value1>132.4</cim:RegularTimePoint.value1>
+		<cim:RegularTimePoint.value2>122.4</cim:RegularTimePoint.value2>
+		<cim:IdentifiedObject.aliasName>RegTimePoint8</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>RTP_1011</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>RegularTimePoint8</cim:IdentifiedObject.name>
+	</cim:RegularTimePoint>
 <!-- DayType -->
 	<cim:DayType rdf:ID="2000_DT">
 		<cim:IdentifiedObject.aliasName>DT1</cim:IdentifiedObject.aliasName>
@@ -136,6 +172,26 @@
 		<cim:IdentifiedObject.aliasName>RS2</cim:IdentifiedObject.aliasName>
 		<cim:IdentifiedObject.mRID>102_RS</cim:IdentifiedObject.mRID>
 		<cim:IdentifiedObject.name>RegulationSchedule2</cim:IdentifiedObject.name>
+	</cim:RegulationSchedule>
+	<cim:RegulationSchedule rdf:ID="103_RS">
+		<cim:RegulationSchedule.RegulatingControl rdf:resource="#101010_RC"/>
+		<cim:SeasonDayTypeSchedule.DayType rdf:resource="#2000_DT"/>
+		<cim:SeasonDayTypeSchedule.Season rdf:resource="#100_SS"/>
+		<cim:BasicIntervalSchedule.startTime>00:00:00</cim:BasicIntervalSchedule.startTime>
+		<cim:BasicIntervalSchedule.value1Unit>degC</cim:BasicIntervalSchedule.value1Unit>
+		<cim:IdentifiedObject.aliasName>RS3</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>103_RS</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>RegulationSchedule3</cim:IdentifiedObject.name>
+	</cim:RegulationSchedule>
+	<cim:RegulationSchedule rdf:ID="104_RS">
+		<cim:RegulationSchedule.RegulatingControl rdf:resource="#202020_RC"/>
+		<cim:SeasonDayTypeSchedule.DayType rdf:resource="#2001_DT"/>
+		<cim:SeasonDayTypeSchedule.Season rdf:resource="#200_SS"/>
+		<cim:BasicIntervalSchedule.startTime>00:00:00</cim:BasicIntervalSchedule.startTime>
+		<cim:BasicIntervalSchedule.value1Unit>degC</cim:BasicIntervalSchedule.value1Unit>
+		<cim:IdentifiedObject.aliasName>RS4</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>104_RS</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>RegulationSchedule4</cim:IdentifiedObject.name>
 	</cim:RegulationSchedule>
 <!-- SwitchSchedule -->	
 	<cim:SwitchSchedule rdf:ID="SWS_1213">

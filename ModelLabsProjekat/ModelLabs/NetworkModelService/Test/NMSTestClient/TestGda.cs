@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.ServiceModel;
 using System.Text.RegularExpressions;
 using System.Xml.Linq;
 using System.IO;
@@ -164,7 +163,7 @@ namespace TelventDMS.Services.NetworkModelService.TestClient.Tests
 			try
 			{						
 				List<ModelCode> properties = new List<ModelCode>();
-                properties.Add(ModelCode.IDOBJ_DESCRIPTION);
+               
                 properties.Add(ModelCode.IDOBJ_MRID);
                 properties.Add(ModelCode.IDOBJ_NAME);
 						

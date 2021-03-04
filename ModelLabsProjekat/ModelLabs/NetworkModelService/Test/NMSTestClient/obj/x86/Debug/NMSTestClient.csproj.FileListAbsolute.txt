@@ -34,3 +34,11 @@ D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\bin\NMSTestClient.pdb
 D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x86\Debug\ResolveAssemblyReference.cache
 D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x86\Debug\NMSTestClient.exe
 D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x86\Debug\NMSTestClient.pdb
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x86\Debug\NMSTestClient.csprojAssemblyReference.cache
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x86\Debug\NMSTestClient.csproj.CoreCompileInputs.cache
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x86\Debug\NMSTestClient.exe
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x86\Debug\NMSTestClient.pdb
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\bin\NMSTestClient.exe.config
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\bin\NMSTestClient.exe
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\bin\NMSTestClient.pdb
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x86\Debug\NMSTestClient.csproj.CopyComplete
