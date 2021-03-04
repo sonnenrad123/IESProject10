@@ -9,7 +9,7 @@ using FTN.Common;
 
 namespace FTN.Services.NetworkModelService.DataModel.Core
 {	
-	public class Location : IdentifiedObject
+	/*public class Location : IdentifiedObject
 	{
 		private string corporateCode = string.Empty;
 		private string category = string.Empty;
@@ -178,5 +178,5 @@ namespace FTN.Services.NetworkModelService.DataModel.Core
 		}		
 		
 		#endregion IReference implementation	
-	}
+	}*/
 }

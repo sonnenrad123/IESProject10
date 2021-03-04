@@ -65,6 +65,10 @@ namespace FTN.Services.NetworkModelService.DataModel.LoadModel
                 case ModelCode.DAYTYPE_SDTSCHS:
                     prop.SetValue(seasonDayTypeSchedules);
                     break;
+
+                default:
+                    base.GetProperty(prop);
+                    break;
             }
         }
 

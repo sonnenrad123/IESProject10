@@ -90,37 +90,6 @@ namespace FTN.Services.NetworkModelService.DataModel.Wires
 
         #endregion IAccess implementation
 
-        #region IReference implementation	
-        public override bool IsReferenced
-        {
-            get
-            {
-                return base.IsReferenced;
-            }
-        }
-
-        public override void AddReference(ModelCode referenceId, long globalId)
-        {
-            switch (referenceId)
-            {
-
-                default:
-                    base.AddReference(referenceId, globalId);
-                    break;
-            }
-        }
-
-        public override void RemoveReference(ModelCode referenceId, long globalId)
-        {
-            switch (referenceId)
-            {
-
-                default:
-                    base.RemoveReference(referenceId, globalId);
-                    break;
-            }
-        }
-
-        #endregion IReference implementation
+       
     }
 }
