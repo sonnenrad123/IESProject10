@@ -183,7 +183,62 @@ namespace NMSClientWithUI
 
 
 
+		public Dictionary<string,long> GetGids()
+		{
+			string message = "Getting global Ids method started.";
+			CommonTrace.WriteTrace(CommonTrace.TraceError, message);
+			Dictionary<string, long> dicIdName = new Dictionary<string, long>();
+			
+			int iteratorId = 0;
+			List<long> ids = new List<long>();
 
+			try
+			{
+				
+				foreach (DMSType dt in modelResourcesDesc.AllDMSTypes)
+				{
+					if (dt != DMSType.MASK_TYPE)
+					{
+						ModelCode temp = modelResourcesDesc.GetModelCodeFromType(dt);
+						int numberOfResources = 2;
+						int resourcesLeft = 0;
+						List<ModelCode> properties = modelResourcesDesc.GetAllPropertyIds(temp);
+						iteratorId = GdaQueryProxy.GetExtentValues(temp, properties);
+						resourcesLeft = GdaQueryProxy.IteratorResourcesLeft(iteratorId);
+
+						while (resourcesLeft > 0)
+						{
+							List<ResourceDescription> rds = GdaQueryProxy.IteratorNext(numberOfResources, iteratorId);
+
+							for (int i = 0; i < rds.Count; i++)
+							{
+								ids.Add(rds[i].Id);
+								for(int j = 0; j < rds[i].Properties.Count; j++)
+                                {
+									if(rds[i].Properties[j].Id.ToString() == "IDOBJ_NAME")
+                                    {
+										dicIdName.Add(rds[i].Properties[j].AsString(), rds[i].Id);
+                                    }
+                                }
+							}
+
+							resourcesLeft = GdaQueryProxy.IteratorResourcesLeft(iteratorId);
+						}
+
+						GdaQueryProxy.IteratorClose(iteratorId);
+					}
+				}
+
+
+			}
+			catch (Exception e)
+			{
+				throw e;
+			}
+			
+
+			return dicIdName;
+		}
 
 
 

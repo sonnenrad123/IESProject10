@@ -43,6 +43,14 @@ namespace NMSClientWithUI
             this.MainPanel.Visible = false;
             this.GetValuesPanel.Visible = true;
             this.GetValuesBtn2.Enabled = false;
+            this.GetValuesComboBox.Items.Clear();
+            Gda gd = new Gda(this.outputTB);
+            Dictionary<string, long> ret = gd.GetGids();
+            foreach(string name in ret.Keys)
+            {
+                this.GetValuesComboBox.Items.Add(name + "-" + String.Format("0x{0:x16}", ret[name]));
+            }
+           
         }
 
         private void CheckGidBtn_Click(object sender, EventArgs e)
@@ -53,7 +61,11 @@ namespace NMSClientWithUI
             try
             {
 
-                string strId = this.GiDTb.Text;
+                string strId = "";
+                if (this.GetValuesComboBox.SelectedItem != null)
+                {
+                    strId = this.GetValuesComboBox.SelectedItem.ToString().Split('-')[1];
+                }
 
                 if (strId.StartsWith("0x", StringComparison.Ordinal))
                 {
@@ -153,7 +165,7 @@ namespace NMSClientWithUI
 
         private void BckToMMBtn_Click(object sender, EventArgs e)
         {
-            this.GiDTb.Text = "";
+            //this.GiDTb.Text = "";
             this.ModelCodesList.Items.Clear();
             this.outputTB.Text = "";
             this.GetValuesPanel.Visible = false;
@@ -184,6 +196,7 @@ namespace NMSClientWithUI
                     this.ModelCodesGEVCB.Items.Add(temp.ToString());
                 }
             }
+            
         }
 
         private void ModelCodesListGevClb_ItemCheck(object sender, ItemCheckEventArgs e)
@@ -203,7 +216,7 @@ namespace NMSClientWithUI
         {
             try
             {
-
+                this.GetExtentValBtn2.Enabled = false;
                 this.ModelCodesListGevClb.Items.Clear();
                 ModelCode selMC;
                 if (Enum.TryParse(this.ModelCodesGEVCB.Items[ModelCodesGEVCB.SelectedIndex].ToString(), out selMC))
@@ -284,7 +297,14 @@ namespace NMSClientWithUI
                     this.ModelCodeFilterGRVCB.Items.Add(temp.ToString());
                 }
             }
-           
+
+            this.GRVCBGid.Items.Clear();
+            Gda gd = new Gda(this.outputTB);
+            Dictionary<string, long> ret = gd.GetGids();
+            foreach (string name in ret.Keys)
+            {
+                this.GRVCBGid.Items.Add(name + "-" + String.Format("0x{0:x16}", ret[name]));
+            }
 
         }
 
@@ -309,7 +329,11 @@ namespace NMSClientWithUI
             try
             {
 
-                string strId = this.GiDGRVtb.Text;
+                string strId = "";
+                if (this.GRVCBGid.SelectedItem != null)
+                {
+                    strId = this.GRVCBGid.SelectedItem.ToString().Split('-')[1];
+                }
 
                 if (strId.StartsWith("0x", StringComparison.Ordinal))
                 {
@@ -475,7 +499,7 @@ namespace NMSClientWithUI
 
         private void BackTMMBtn3_Click(object sender, EventArgs e)
         {
-            this.GiDTb.Text = "";
+            //this.GiDTb.Text = "";
             this.ModelCodesList.Items.Clear();
             this.outputTB.Text = "";
             this.OutputTBGrv.Text = "";
@@ -492,5 +516,7 @@ namespace NMSClientWithUI
             this.GetRelatedValuesPanel.Visible = false;
 
         }
+
+       
     }
 }
