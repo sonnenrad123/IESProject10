@@ -51,5 +51,49 @@ namespace FTN.Common
 		Primary = 1,
 		Secondary = 2,
 		Tertiary = 3
-	}			
+	}
+	
+	public enum UnitSymbol : short
+    {
+		A = 0,
+		deg = 1,
+		degC = 2,
+		F = 3,
+		g = 4,
+		h = 5,
+		H = 6,
+		Hz = 7,
+		J = 8,
+		m = 9,
+		m2 = 10,
+		m3 = 11,
+		min = 12,
+		N = 13,
+		none = 14,
+		ohm = 15,
+		Pa = 16,
+		rad = 17,
+		s = 18,
+		S = 19,
+		V = 20,
+		VA = 21,
+		VAh = 22,
+		VAr = 23,
+		VArh = 24,
+		W = 25,
+		Wh = 26
+	}
+
+	public enum RegulatingControlModeKind : short
+	{
+		activePower = 0,
+		admittance = 1,
+		currentFlow = 2,
+		@fixed = 3,
+		powerFactor = 4,
+		reactivePower = 5,
+		temperature = 6,
+		timeScheduled = 7,
+		voltage = 8
+	}
 }

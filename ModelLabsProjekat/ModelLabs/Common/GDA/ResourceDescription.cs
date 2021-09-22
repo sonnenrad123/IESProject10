@@ -394,6 +394,8 @@ namespace FTN.Common
 			xmlWriter.WriteEndElement(); // ResourceDescription
 		}
 
+		
+
 		public bool ContainsProperty(ModelCode propertyID)
 		{
 			foreach (Property property in this.Properties)

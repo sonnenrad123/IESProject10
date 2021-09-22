@@ -28,3 +28,14 @@ D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\D
 D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.Properties.Resources.resources
 D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\GenerateResource.read.1.tlog
 D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csprojAssemblyReference.cache
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.ModelLabsAppForm.resources
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.Properties.Resources.resources
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.GenerateResource.cache
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.CoreCompileInputs.cache
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.exe
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.pdb
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.exe.config
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.exe
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.pdb
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.CopyComplete

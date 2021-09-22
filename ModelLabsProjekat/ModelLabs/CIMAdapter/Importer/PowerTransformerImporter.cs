@@ -6,7 +6,7 @@ using FTN.ESI.SIMES.CIM.CIMAdapter.Manager;
 
 namespace FTN.ESI.SIMES.CIM.CIMAdapter.Importer
 {
-	/// <summary>
+	/*/// <summary>
 	/// PowerTransformerImporter
 	/// </summary>
 	public class PowerTransformerImporter
@@ -298,6 +298,6 @@ namespace FTN.ESI.SIMES.CIM.CIMAdapter.Importer
 			return rd;
 		}
 		#endregion Import
-	}
+	}*/
 }
 

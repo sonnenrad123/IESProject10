@@ -13,3 +13,9 @@ D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.Common.pdb
 D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\ResolveAssemblyReference.cache
 D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
 D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\Common.csprojAssemblyReference.cache
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\bin\FTN.Common.dll
+D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\bin\FTN.Common.pdb

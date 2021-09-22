@@ -67,9 +67,8 @@
     <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="PowerTransformerCIMProfile_Labs, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>Lib\PowerTransformerCIMProfile_Labs.dll</HintPath>
+    <Reference Include="BreakerCIMProfile_Labs">
+      <HintPath>Lib\BreakerCIMProfile_Labs.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -82,6 +81,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CIMAdapter.cs" />
+    <Compile Include="Importer\BreakerConverter.cs" />
+    <Compile Include="Importer\BreakerImporter.cs" />
     <Compile Include="Importer\ImportHelper.cs" />
     <Compile Include="Importer\PowerTransformerConverter.cs" />
     <Compile Include="Importer\PowerTransformerImporter.cs" />
@@ -105,7 +106,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Lib\PowerTransformerCIMProfile_Labs.dll" />
+    <Content Include="Lib\BreakerCIMProfile_Labs.dll" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

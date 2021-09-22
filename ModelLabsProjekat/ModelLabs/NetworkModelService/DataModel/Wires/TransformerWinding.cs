@@ -10,7 +10,7 @@ using FTN.Services.NetworkModelService.DataModel.Core;
 
 namespace FTN.Services.NetworkModelService.DataModel.Wires
 {	
-	public class TransformerWinding : ConductingEquipment
+	/*public class TransformerWinding : ConductingEquipment
 	{
 		private WindingConnection connectionType;
 
@@ -336,5 +336,5 @@ namespace FTN.Services.NetworkModelService.DataModel.Wires
 		}
 	
 		#endregion IReference implementation
-	}
+	}*/
 }

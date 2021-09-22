@@ -1,0 +1,173 @@
+4.3.2021. 21:28:00 : Getting values method started.
+4.3.2021. 21:28:00 : Getting values method successfully finished.
+4.3.2021. 21:28:00 : Getting values method successfully finished.
+4.3.2021. 21:28:00 : Getting values method for entered id = 30064771073 failed.
+	The process cannot access the file 'D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\NMSClientWithUI\bin\Results\GetValues_Results.xml' because it is being used by another process.
+4.3.2021. 21:29:02 : Getting values method started.
+4.3.2021. 21:29:02 : Getting values method successfully finished.
+4.3.2021. 21:29:02 : Getting values method successfully finished.
+4.3.2021. 21:29:02 : Getting values method for entered id = 30064771073 failed.
+	The process cannot access the file 'D:\Projekti2020-2021\IES\IESProject10\ModelLabsProjekat\ModelLabs\NMSClientWithUI\bin\Results\GetValues_Results.xml' because it is being used by another process.
+4.3.2021. 21:32:03 : Getting values method started.
+4.3.2021. 21:32:03 : Getting values method successfully finished.
+4.3.2021. 21:32:03 : Getting values method successfully finished.
+4.3.2021. 21:36:14 : Getting values method started.
+4.3.2021. 21:36:14 : Getting values method successfully finished.
+4.3.2021. 21:36:14 : Getting values method successfully finished.
+4.3.2021. 21:38:40 : Getting values method started.
+4.3.2021. 21:38:40 : Getting values method successfully finished.
+4.3.2021. 21:38:40 : Getting values method successfully finished.
+5.3.2021. 11:16:11 : Failed to get model type code for DMS type: 0. Invalid DMS type
+5.3.2021. 11:16:11 : There was a error. Exception messagge: Failed to get model type code for DMS type: 0. Invalid DMS type
+5.3.2021. 11:16:21 : Getting values method started.
+5.3.2021. 11:16:21 : Getting values method successfully finished.
+5.3.2021. 11:16:21 : Getting values method successfully finished.
+5.3.2021. 12:36:45 : Getting extent values method started.
+5.3.2021. 12:36:45 : Getting extent values method successfully finished.
+5.3.2021. 12:38:45 : Getting extent values method started.
+5.3.2021. 12:38:49 : Getting extent values method failed for BRKR.
+	Could not connect to net.tcp://localhost:10000/NetworkModelService/GDA/. The connection attempt lasted for a time span of 00:00:04.0581544. TCP error code 10061: No connection could be made because the target machine actively refused it 127.0.0.1:10000. 
+5.3.2021. 12:39:26 : Getting extent values method started.
+5.3.2021. 12:39:26 : Getting extent values method successfully finished.
+5.3.2021. 12:40:47 : Getting extent values method started.
+5.3.2021. 12:40:47 : Getting extent values method successfully finished.
+5.3.2021. 12:41:26 : Getting values method started.
+5.3.2021. 12:41:26 : Getting values method successfully finished.
+5.3.2021. 12:41:26 : Getting values method successfully finished.
+5.3.2021. 12:43:28 : Getting extent values method started.
+5.3.2021. 12:43:28 : Getting extent values method successfully finished.
+5.3.2021. 12:45:20 : Getting extent values method started.
+5.3.2021. 12:45:20 : Getting extent values method successfully finished.
+5.3.2021. 12:52:29 : Getting extent values method started.
+5.3.2021. 12:52:29 : Getting extent values method successfully finished.
+5.3.2021. 12:52:49 : Getting extent values method started.
+5.3.2021. 12:52:49 : Getting extent values method successfully finished.
+5.3.2021. 12:53:25 : Getting values method started.
+5.3.2021. 12:53:25 : Getting values method successfully finished.
+5.3.2021. 12:53:25 : Getting values method successfully finished.
+5.3.2021. 14:33:05 : Failed to get model type code for DMS type: 0. Invalid DMS type
+5.3.2021. 14:33:05 : There was a error. Exception messagge: Failed to get model type code for DMS type: 0. Invalid DMS type
+5.3.2021. 14:33:48 : There was a error. Exception messagge: Value was either too large or too small for an Int64.
+5.3.2021. 14:33:53 : There was a error. Exception messagge: Value was either too large or too small for an Int64.
+5.3.2021. 14:34:49 : Failed to get model type code for DMS type: 0. Invalid DMS type
+5.3.2021. 14:34:49 : There was a error. Exception messagge: Failed to get model type code for DMS type: 0. Invalid DMS type
+5.3.2021. 14:37:37 : There was a error. Exception messagge: Input string was not in a correct format.
+5.3.2021. 14:37:57 : There was a error. Exception messagge: Input string was not in a correct format.
+5.3.2021. 14:38:05 : There was a error. Exception messagge: Input string was not in a correct format.
+5.3.2021. 14:38:09 : There was a error. Exception messagge: Input string was not in a correct format.
+5.3.2021. 14:38:14 : Failed to get model type code for DMS type: 0. Invalid DMS type
+5.3.2021. 14:38:14 : There was a error. Exception messagge: Failed to get model type code for DMS type: 0. Invalid DMS type
+5.3.2021. 14:45:22 : There was a error. Exception messagge: Input string was not in a correct format.
+5.3.2021. 15:26:47 : There was a error. Exception messagge: Input string was not in a correct format.
+5.3.2021. 15:42:43 : There was a error. Exception messagge: Input string was not in a correct format.
+5.3.2021. 15:42:47 : There was a error. Exception messagge: Input string was not in a correct format.
+5.3.2021. 15:48:17 : There was a error. Exception messagge: Input string was not in a correct format.
+5.3.2021. 15:54:53 : Getting values method started.
+5.3.2021. 15:54:53 : Getting values method successfully finished.
+5.3.2021. 15:54:53 : Getting values method successfully finished.
+5.3.2021. 15:55:33 : Getting extent values method started.
+5.3.2021. 15:55:33 : Getting extent values method successfully finished.
+5.3.2021. 15:55:46 : Getting extent values method started.
+5.3.2021. 15:55:46 : Getting extent values method successfully finished.
+5.3.2021. 15:55:54 : Getting extent values method started.
+5.3.2021. 15:55:54 : Getting extent values method successfully finished.
+5.3.2021. 16:01:48 : Getting values method started.
+5.3.2021. 16:01:48 : Getting values method successfully finished.
+5.3.2021. 16:01:48 : Getting values method successfully finished.
+5.3.2021. 16:01:57 : Getting extent values method started.
+5.3.2021. 16:01:57 : Getting extent values method successfully finished.
+5.3.2021. 16:02:08 : Getting related values method started.
+5.3.2021. 16:02:08 : Getting related values method successfully finished.
+5.3.2021. 16:05:31 : Getting related values method started.
+5.3.2021. 16:05:31 : Getting related values method successfully finished.
+5.3.2021. 16:08:40 : Getting related values method started.
+5.3.2021. 16:08:40 : Getting related values method successfully finished.
+5.3.2021. 16:09:23 : Failed to get model type code for DMS type: 0. Invalid DMS type
+5.3.2021. 16:09:23 : There was a error. Exception messagge: Failed to get model type code for DMS type: 0. Invalid DMS type
+5.3.2021. 16:09:34 : Getting related values method started.
+5.3.2021. 16:09:34 : Getting related values method successfully finished.
+5.3.2021. 16:11:56 : Getting related values method started.
+5.3.2021. 16:11:56 : Getting related values method successfully finished.
+5.3.2021. 16:12:38 : Getting related values method started.
+5.3.2021. 16:12:38 : Getting related values method successfully finished.
+5.3.2021. 16:13:26 : Getting related values method started.
+5.3.2021. 16:13:26 : Getting related values method successfully finished.
+5.3.2021. 16:15:14 : Getting related values method started.
+5.3.2021. 16:15:14 : Getting related values method successfully finished.
+5.3.2021. 16:16:44 : Getting related values method started.
+5.3.2021. 16:16:44 : Getting related values method successfully finished.
+5.3.2021. 16:17:23 : Getting related values method started.
+5.3.2021. 16:17:23 : Getting related values method successfully finished.
+5.3.2021. 16:19:06 : Getting values method started.
+5.3.2021. 16:19:10 : Getting values method for entered id = 4294967298 failed.
+	Could not connect to net.tcp://localhost:10000/NetworkModelService/GDA/. The connection attempt lasted for a time span of 00:00:04.0660317. TCP error code 10061: No connection could be made because the target machine actively refused it 127.0.0.1:10000. 
+5.3.2021. 16:19:19 : Getting values method started.
+5.3.2021. 16:19:24 : Getting values method for entered id = 4294967298 failed.
+	Could not connect to net.tcp://localhost:10000/NetworkModelService/GDA/. The connection attempt lasted for a time span of 00:00:04.0889974. TCP error code 10061: No connection could be made because the target machine actively refused it 127.0.0.1:10000. 
+5.3.2021. 16:19:30 : Getting values method started.
+5.3.2021. 16:19:30 : Getting values method successfully finished.
+5.3.2021. 16:19:30 : Getting values method successfully finished.
+5.3.2021. 16:19:34 : Getting values method started.
+5.3.2021. 16:19:34 : Getting values method successfully finished.
+5.3.2021. 16:19:34 : Getting values method successfully finished.
+5.3.2021. 16:19:45 : Failed to get model type code for DMS type: 0. Invalid DMS type
+5.3.2021. 16:19:46 : There was a error. Exception messagge: Failed to get model type code for DMS type: 0. Invalid DMS type
+5.3.2021. 16:19:57 : Getting extent values method started.
+5.3.2021. 16:19:57 : Getting extent values method successfully finished.
+5.3.2021. 16:20:01 : Getting extent values method started.
+5.3.2021. 16:20:01 : Getting extent values method successfully finished.
+5.3.2021. 16:20:01 : Getting extent values method started.
+5.3.2021. 16:20:01 : Getting extent values method successfully finished.
+5.3.2021. 16:20:07 : There was a error. Exception messagge: Input string was not in a correct format.
+5.3.2021. 16:24:49 : There was a error. Exception messagge: Unable to cast object of type 'FTN.Common.ModelCode' to type 'System.String'.
+5.3.2021. 16:26:17 : There was a error. Exception messagge: Unable to cast object of type 'FTN.Common.ModelCode' to type 'System.String'.
+5.3.2021. 16:27:50 : There was a error. Exception messagge: Unable to cast object of type 'FTN.Common.ModelCode' to type 'System.String'.
+5.3.2021. 16:29:32 : There was a error. Exception messagge: Unable to cast object of type 'FTN.Common.ModelCode' to type 'System.String'.
+5.3.2021. 16:31:27 : Getting related values method started.
+5.3.2021. 16:31:27 : Getting related values method successfully finished.
+5.3.2021. 16:32:46 : There was a error. Exception messagge: Unable to cast object of type 'FTN.Common.ModelCode' to type 'System.String'.
+5.3.2021. 16:35:25 : There was a error. Exception messagge: Unable to cast object of type 'FTN.Common.ModelCode' to type 'System.String'.
+5.3.2021. 16:36:02 : Getting related values method started.
+5.3.2021. 16:36:07 : Getting related values method  failed for sourceGlobalId = 4294967298 and association (propertyId = RIS_TIMEPOINTS, type = RTP). Reason: Could not connect to net.tcp://localhost:10000/NetworkModelService/GDA/. The connection attempt lasted for a time span of 00:00:04.0609983. TCP error code 10061: No connection could be made because the target machine actively refused it 127.0.0.1:10000. 
+5.3.2021. 16:38:10 : Getting related values method started.
+5.3.2021. 16:38:10 : Getting related values method successfully finished.
+5.3.2021. 16:38:19 : Failed to get model type code for DMS type: 0. Invalid DMS type
+5.3.2021. 16:38:19 : There was a error. Exception messagge: Failed to get model type code for DMS type: 0. Invalid DMS type
+5.3.2021. 16:38:32 : Getting related values method started.
+5.3.2021. 16:38:32 : Getting related values method successfully finished.
+5.3.2021. 16:38:50 : There was a error. Exception messagge: Input string was not in a correct format.
+5.3.2021. 16:39:05 : Getting related values method started.
+5.3.2021. 16:39:05 : Getting related values method successfully finished.
+5.3.2021. 16:42:52 : Getting related values method started.
+5.3.2021. 16:42:52 : Getting related values method successfully finished.
+5.3.2021. 16:43:05 : Getting related values method started.
+5.3.2021. 16:43:05 : Getting related values method successfully finished.
+5.3.2021. 16:43:22 : Getting related values method started.
+5.3.2021. 16:43:22 : Getting related values method successfully finished.
+5.3.2021. 16:43:37 : Getting related values method started.
+5.3.2021. 16:43:37 : Getting related values method successfully finished.
+5.3.2021. 16:43:52 : Getting related values method started.
+5.3.2021. 16:43:52 : Getting related values method successfully finished.
+5.3.2021. 16:44:13 : Getting extent values method started.
+5.3.2021. 16:44:13 : Getting extent values method successfully finished.
+5.3.2021. 16:44:18 : Getting extent values method started.
+5.3.2021. 16:44:18 : Getting extent values method successfully finished.
+5.3.2021. 16:44:32 : Getting values method started.
+5.3.2021. 16:44:32 : Getting values method successfully finished.
+5.3.2021. 16:44:32 : Getting values method successfully finished.
+5.3.2021. 16:44:57 : Failed to get model type code for DMS type: 0. Invalid DMS type
+5.3.2021. 16:44:57 : There was a error. Exception messagge: Failed to get model type code for DMS type: 0. Invalid DMS type
+5.3.2021. 16:45:20 : Getting related values method started.
+5.3.2021. 16:45:20 : Getting related values method successfully finished.
+5.3.2021. 16:45:44 : Getting related values method started.
+5.3.2021. 16:45:44 : Getting related values method successfully finished.
+5.3.2021. 16:46:01 : Getting related values method started.
+5.3.2021. 16:46:01 : Getting related values method successfully finished.
+5.3.2021. 16:46:44 : Getting related values method started.
+5.3.2021. 16:46:44 : Getting related values method successfully finished.
+5.3.2021. 16:46:54 : Getting related values method started.
+5.3.2021. 16:46:54 : Getting related values method successfully finished.
+5.3.2021. 16:47:43 : Getting related values method started.
+5.3.2021. 16:47:43 : Getting related values method successfully finished.
+5.3.2021. 16:48:19 : Getting related values method started.
+5.3.2021. 16:48:19 : Getting related values method successfully finished.

@@ -1,6 +1,6 @@
 ﻿namespace FTN.ESI.SIMES.CIM.CIMAdapter.Importer
 {
-	using FTN.Common;
+	/*using FTN.Common;
 
 	/// <summary>
 	/// PowerTransformerConverter has methods for populating
@@ -327,5 +327,5 @@
 			}
 		}
 		#endregion Enums convert
-	}
+	}*/
 }
